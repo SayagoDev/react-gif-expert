@@ -1,4 +1,4 @@
-# gifExpertApp
+# GifExpertApp
 
 Temas tratados en está App:
 
